@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.a12e0387.css",
+    "main.js": "/personal-website/static/js/main.07b9c98e.js",
+    "static/js/787.d8ae8396.chunk.js": "/personal-website/static/js/787.d8ae8396.chunk.js",
+    "static/media/Screenshot 2023-11-10 at 1.17.14 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.17.14 PM.b35246320df3bd7f30a7.png",
+    "static/media/Screenshot 2023-11-10 at 1.17.46 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.17.46 PM.e4e72f0dfd995d94afea.png",
+    "static/media/Screenshot 2023-11-10 at 1.18.15 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.18.15 PM.e0ed0868ee69736d83bb.png",
+    "static/media/profile-pic.png": "/personal-website/static/media/profile-pic.3961b4473114a32a319e.png",
+    "static/media/Screenshot 2023-11-10 at 1.26.55 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.26.55 PM.9371fbc0f7cc3ff47eef.png",
+    "static/media/Screenshot 2023-11-15 at 5.07.11 PM.png": "/personal-website/static/media/Screenshot 2023-11-15 at 5.07.11 PM.49771efa62363f227599.png",
+    "static/media/Screenshot 2023-11-10 at 1.24.15 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.24.15 PM.e9f8a32c0e746d75142b.png",
+    "static/media/Screenshot 2023-11-10 at 1.24.38 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.24.38 PM.45fa7afaa7897e0be0b0.png",
+    "static/media/Screenshot 2023-11-10 at 1.23.54 PM.png": "/personal-website/static/media/Screenshot 2023-11-10 at 1.23.54 PM.bd2cfbcefe580b0b9701.png",
+    "static/media/instaLogo.png": "/personal-website/static/media/instaLogo.8694fe7d8098c601bbea.png",
+    "static/media/GoalApp-UserGoalPage.png": "/personal-website/static/media/GoalApp-UserGoalPage.c63faa9bbf54b373c586.png",
+    "static/media/GoalApp-RegisterPage.png": "/personal-website/static/media/GoalApp-RegisterPage.76e798f72e13672cc902.png",
+    "static/media/facebookLogo.png": "/personal-website/static/media/facebookLogo.790642551cd99bb66a7e.png",
+    "static/media/GoalApp-LoginPage.png": "/personal-website/static/media/GoalApp-LoginPage.49a09b1c99209f219308.png",
+    "static/media/GoalApp-UserProfilePage.png": "/personal-website/static/media/GoalApp-UserProfilePage.49a51f6fd67e942060a4.png",
+    "static/media/linkedinLogo.png": "/personal-website/static/media/linkedinLogo.df3f373c358bcfdd92bb.png",
+    "index.html": "/personal-website/index.html",
+    "main.a12e0387.css.map": "/personal-website/static/css/main.a12e0387.css.map",
+    "main.07b9c98e.js.map": "/personal-website/static/js/main.07b9c98e.js.map",
+    "787.d8ae8396.chunk.js.map": "/personal-website/static/js/787.d8ae8396.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12e0387.css",
+    "static/js/main.07b9c98e.js"
+  ]
+}
