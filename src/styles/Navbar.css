@@ -1,0 +1,20 @@
+.navbar-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 1.6rem;
+    max-height: 150px;
+}
+
+.home-link, 
+.project-link, 
+.resume-link {
+    margin-left: 75px;
+}
+
+.home-link a, 
+.project-link a, 
+.resume-link a {
+    text-decoration: none;
+}
+
