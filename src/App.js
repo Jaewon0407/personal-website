@@ -4,6 +4,7 @@ import Project from "./sections/Project"
 import Resume from "./sections/Resume"
 import Home from "./sections/Home"
 
+
 function App() {
   return (
       <Router>
